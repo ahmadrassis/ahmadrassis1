@@ -1,0 +1,23 @@
+/* block
+-  take full width if not width
+- add line break
+- respect pading and margin
+*/
+
+/* inline
+-
+-
+-
+*/
+
+/* inline-block 
+-
+-
+-
+*/
+
+span{
+  background-color: red ;
+  padding: 10px;
+  margin: 10px;
+}
