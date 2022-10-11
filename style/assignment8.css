@@ -1,0 +1,58 @@
+/* 
+
+
+
+
+.my-p {
+  color: blue;
+  font-size: 30px
+}
+
+p{
+  color: aquamarine
+}
+
+.p1{
+  color: red
+}
+
+#p2{
+  color: chartreuse
+} */
+/* 
+.div1 {
+  color: red;
+} */
+
+/* background-color: red;
+  background-color: rgba(234, 235, 50);
+  background: #c9a19d;
+  background-image: url("../fronted/img7/444OIP.jfif");
+  background-repeat: no-repeat;
+  /* background-attachment: fixed;
+/* background-position: ; 
+background-size:contain;
+ */
+/* div{
+background-color:seashell ;
+/* top.right.bottom.left
+padding: 100px 40px 50px 50px;
+
+
+}
+ */
+
+.div2 {
+  font-size: 1em;
+  background-color: wheat;
+  padding: 1%;
+
+  /* margin: 10%; */
+  border-width: 10px;
+  border-color: brown red rgb(68, 62, 62);
+  border-style: solid;
+  outline: 1px solid rgb(36, 25, 136);
+  overflow: auto;
+  inline-size: auto;
+ gap: 40px
+}
