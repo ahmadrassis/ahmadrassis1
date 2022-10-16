@@ -7,7 +7,7 @@ body {
 }
 .leyout > .leftsidebar {
   padding: 20px;
-  background-color: rgba(255, 255, 255, 0.226);
+  background-color: rgb(56, 177, 147);
   height: 100vh;
   overflow-y: auto;
   overflow-x: hidden;
@@ -22,11 +22,12 @@ body {
   display: flex;
   flex-direction: column;
   gap: 8px;
+  font-style :initial;
 }
 .leyout > .leftsidebar > nav > a {
   text-decoration: none;
   font-size: 20px;
-  color:rgb(104, 104, 104);
+  color: rgb(255, 255, 255);
 }
 .content {
   padding: 20px;
@@ -34,26 +35,23 @@ body {
   height: 100vh;
   flex-grow: 1;
   flex-shrink: 1;
-  flex-basis: 1; 
+  flex-basis: 0%;
   overflow: auto;
-  background-color: rgba(199, 199, 199, 0.356);
-  
+  background-color: rgba(255, 255, 255, 0.432);
 }
-.card-section{
+.card-section {
+  background-color: rgb(56, 177, 147);
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
   gap: 12px;
-  
-
 }
 
 .card-section > .card {
-  background-color: rgba(255, 255, 255, 0.884) ;
+  background-color: rgb(255, 255, 255);
   height: 120px;
   flex-grow: 1;
   flex-shrink: 1;
   flex-basis: 100px;
-  color: rgb(117, 65, 65);
-
+  color: rgb(56, 177, 147);
 }
